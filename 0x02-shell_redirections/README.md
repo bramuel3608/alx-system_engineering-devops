@@ -1,1 +1,1 @@
-prints hello world
+Script prints "Hello, world"
